@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/rumyantseva/go-sofia/internal/diagnostics"
+	"github.com/rdimitrov/go-sofia/internal/diagnostics"
 )
 
 type serverConf struct {
